@@ -20,4 +20,7 @@
 * 下载文件
 
 ### zhanTianYouFile.rb 将excel文件转换为html文件，并提取信息保存csv文件。
+### jiShufaming.rb  爬取国家技术部发明奖与技术进步奖
+* xpath  contains 的用法。
+
 
